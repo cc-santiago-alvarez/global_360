@@ -1,0 +1,12 @@
+# Binarios
+/global_360
+*.exe
+*.test
+*.out
+
+# Entorno
+.env
+
+# IDE
+.idea/
+.vscode/
